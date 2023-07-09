@@ -16,7 +16,7 @@ TalentedPygame is a basic game engine that makes Pygame games. It has an IDE, en
 *A: I have no intrests in providing major updates to TalentedPygame. I might do something like bug fixes, quality of life, or compatability issues, but that's a HUGE might. Sorry :(*
 
 
-# TalentedPygame (NORSK)
+# TalentedPygame (LIMITED NORSK)
 TalentedPygame er en grunnleggende spillmotor som lager Pygame videospill. Den har en IDE, enhetskomponentsystem, og skjermbehandler. Takk for at du kom :P
 
 
