@@ -25,11 +25,11 @@ TalentedPygame er en grunnleggende spillmotor som lager Pygame videospill. Den h
 *A: Ja.*
 
 
-**Q: Hva trenger jeg?**
+**Spørsmål: Hvilket operativsystem støtter TP**
 
-*A: En Windows-datamaskin*
+*A: Kun Windows. Jeg vet ikke om den støtter Windows 7 og eldre, men jeg er 100% sikker på at den støtter Windows 10 og nyere.*
 
 
-**Q: Vil du gi store oppdateringer**
+**Q: Vil du legge til alle disse kule tingene (f.eks. port til videospillkonsoller/mobilenheter, partikkeleffekter, animasjon)**
 
-*A: Nei. Beklager*
+*A: Jeg har ingen interesse i å gi store oppdateringer til TalentedPygame. Jeg kan gjøre noe som feilrettinger, livskvalitet eller kompatibilitetsproblemer, men det er en STOR kanskje. Beklager :(*
